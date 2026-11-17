@@ -1,8 +1,10 @@
 # GTA VI Twitch CCU Forecaster
 
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/ncyrmd/makefun-gta6-twitch-ccu-forecast-01-v1/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/ncyrmd/makefun-gta6-twitch-ccu-forecast-01-v1/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
 
 Forecasts hour-by-hour Twitch concurrent viewers in the **Grand Theft Auto VI**
 category on launch day, 19 November 2026 (UTC), hours 2–24, as five quantiles
